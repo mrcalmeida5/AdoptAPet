@@ -1,2 +1,2 @@
 # AdoptAPet
-.NET Core API + SQLite + Repository Pattern
+.NET Core API + EF + SQLite + Repository Pattern
